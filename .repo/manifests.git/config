@@ -1,6 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-[remote "origin"]
-	url = git@github.com:cauhn/config.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
